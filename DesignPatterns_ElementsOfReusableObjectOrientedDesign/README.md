@@ -10,4 +10,4 @@ Exposes interface for creating dependent objects without specifying concrete cla
 - when there is direct dependencies between objects of the family and they have to be used as a group
 - you want to hide implementations of library of products and expose interface only
 ### Diagram
-![Alt text](../uml/to/AbstractFactory.png?raw=true)
+![abstractFactory image](uml/to/AbstractFactory.png?raw=true)
